@@ -2,7 +2,7 @@
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -100,7 +100,7 @@ cd models
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -125,7 +125,7 @@ wget https://huggingface.co/rhasspy/piper-voices/resolve/v1.0.0/pt/pt_BR/faber/m
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -175,7 +175,7 @@ payload: {}  # Vazio, apenas trigger
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -199,7 +199,7 @@ payload: {}  # Vazio, apenas trigger
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -253,7 +253,7 @@ payload: {
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -277,7 +277,7 @@ payload: {
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -301,7 +301,7 @@ payload: {
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -325,7 +325,7 @@ payload: {
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -349,7 +349,7 @@ payload: {
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -385,7 +385,7 @@ GET /health
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -411,7 +411,7 @@ POST /test-latency
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -442,7 +442,7 @@ POST /test-latency
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -469,7 +469,7 @@ PORT=8007
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -497,7 +497,7 @@ AZURE_SPEECH_REGION=brazilsouth
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -523,7 +523,7 @@ TTS_ENGINE=azure  # azure | piper
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -549,7 +549,7 @@ NATS_URL=nats://localhost:4222
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -662,7 +662,7 @@ async def synthesize_text(text: str, speaker_id: str):
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -687,7 +687,7 @@ async def synthesize_text(text: str, speaker_id: str):
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -713,7 +713,7 @@ async def synthesize_text(text: str, speaker_id: str):
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -739,7 +739,7 @@ async def synthesize_text(text: str, speaker_id: str):
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -765,7 +765,7 @@ async def synthesize_text(text: str, speaker_id: str):
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -791,7 +791,7 @@ async def synthesize_text(text: str, speaker_id: str):
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -817,7 +817,7 @@ async def synthesize_text(text: str, speaker_id: str):
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -843,7 +843,7 @@ async def synthesize_text(text: str, speaker_id: str):
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -887,7 +887,7 @@ Lista de vozes mais rápidas documentada nesta seção.
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -916,7 +916,7 @@ pydantic==2.5.0
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -943,7 +943,7 @@ piper-tts==1.2.0  # Fallback offline
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -969,7 +969,7 @@ nats-py==2.6.0
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -1006,7 +1006,7 @@ WORKDIR /app
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -1033,7 +1033,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -1060,7 +1060,7 @@ RUN python -c "from piper import PiperVoice; \
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -1096,7 +1096,7 @@ CMD ["python", "main.py"]
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -1123,7 +1123,7 @@ tts_characters_synthesized_total{engine}
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -1150,7 +1150,7 @@ tts_first_chunk_ms{engine}  # Tempo até primeiro chunk
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -1183,7 +1183,7 @@ tts_fallback_activations_total  # Quantas vezes caiu para Piper
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -1209,7 +1209,7 @@ pip install -r requirements.txt
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -1234,7 +1234,7 @@ cp .env.example .env
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -1259,7 +1259,7 @@ cp .env.example .env
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
@@ -1285,7 +1285,7 @@ python main.py
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/aslam/README.md)** → **mordomo-tts-engine**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Aslam (Orange Pi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/mordomo%20-%20(orange-pi-5-16gb)/README.md)** → **mordomo-tts-engine**
 
 ### Containers Relacionados (aslam)
 - [mordomo-audio-bridge](https://github.com/AslamSys/mordomo-audio-bridge)
