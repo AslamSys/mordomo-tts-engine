@@ -1,0 +1,17 @@
+services:
+  tts-engine:
+    build: .
+    image: aslamsys/mordomo-tts-engine:latest
+    container_name: tts-engine
+    restart: unless-stopped
+    environment:
+      - NATS_URL=nats://nats:4222
+      - TTS_ENGINE=piper
+    depends_on:
+      - nats
+    networks:
+      - mordomo-net
+
+networks:
+  mordomo-net:
+    external: true
