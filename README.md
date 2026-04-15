@@ -16,10 +16,7 @@
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 
@@ -114,10 +111,7 @@ cd models
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 wget https://huggingface.co/rhasspy/piper-voices/resolve/v1.0.0/pt/pt_BR/faber/medium/pt_BR-faber-medium.onnx
@@ -139,10 +133,7 @@ wget https://huggingface.co/rhasspy/piper-voices/resolve/v1.0.0/pt/pt_BR/faber/m
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 wget https://huggingface.co/rhasspy/piper-voices/resolve/v1.0.0/pt/pt_BR/faber/medium/pt_BR-faber-medium.onnx.json
@@ -189,10 +180,7 @@ payload: {}  # Vazio, apenas trigger
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 # Efeito: Para síntese imediatamente, descarta buffer
@@ -213,10 +201,7 @@ payload: {}  # Vazio, apenas trigger
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 ```
@@ -267,10 +252,7 @@ payload: {
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 # - started: Síntese iniciada
@@ -291,10 +273,7 @@ payload: {
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 # - completed: Síntese finalizada com sucesso
@@ -315,10 +294,7 @@ payload: {
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 # - interrupted: Usuário interrompeu (começou a falar)
@@ -339,10 +315,7 @@ payload: {
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 # - error: Erro na síntese
@@ -363,10 +336,7 @@ payload: {
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 ```
@@ -399,10 +369,7 @@ GET /health
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 
@@ -425,10 +392,7 @@ POST /test-latency
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 ```
@@ -456,10 +420,7 @@ POST /test-latency
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 HOST=0.0.0.0
@@ -483,10 +444,7 @@ PORT=8007
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 AZURE_SPEECH_KEY1=your_key_here
@@ -511,10 +469,7 @@ AZURE_SPEECH_REGION=brazilsouth
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 TTS_ENGINE=azure  # azure | piper
@@ -537,10 +492,7 @@ TTS_ENGINE=azure  # azure | piper
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 NATS_URL=nats://localhost:4222
@@ -563,10 +515,7 @@ NATS_URL=nats://localhost:4222
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 SAMPLE_RATE=22050
@@ -676,10 +625,7 @@ async def synthesize_text(text: str, speaker_id: str):
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 
@@ -701,10 +647,7 @@ async def synthesize_text(text: str, speaker_id: str):
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 → tts.generate.user_1 {"text": "A temperatura está..."}
@@ -727,10 +670,7 @@ async def synthesize_text(text: str, speaker_id: str):
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 → tts.status.user_1 {"status": "started"}
@@ -753,10 +693,7 @@ async def synthesize_text(text: str, speaker_id: str):
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 → tts.audio_chunk.user_1 {"data": "...", "chunk_index": 0}
@@ -779,10 +716,7 @@ async def synthesize_text(text: str, speaker_id: str):
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 → STT detecta voz do usuário
@@ -805,10 +739,7 @@ async def synthesize_text(text: str, speaker_id: str):
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 → tts.interrupt.user_1 {}
@@ -831,10 +762,7 @@ async def synthesize_text(text: str, speaker_id: str):
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 → tts.status.user_1 {"status": "interrupted"}
@@ -857,10 +785,7 @@ async def synthesize_text(text: str, speaker_id: str):
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 ```
@@ -901,10 +826,7 @@ Lista de vozes mais rápidas documentada nesta seção.
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 fastapi==0.104.1
@@ -930,10 +852,7 @@ pydantic==2.5.0
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 azure-cognitiveservices-speech==1.47.0  # Primário
@@ -957,10 +876,7 @@ piper-tts==1.2.0  # Fallback offline
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 nats-py==2.6.0
@@ -983,10 +899,7 @@ nats-py==2.6.0
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 pytest==7.4.3
@@ -1020,10 +933,7 @@ WORKDIR /app
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 COPY requirements.txt .
@@ -1047,10 +957,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 RUN python -c "from piper import PiperVoice; \
@@ -1074,10 +981,7 @@ RUN python -c "from piper import PiperVoice; \
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 COPY . .
@@ -1110,10 +1014,7 @@ CMD ["python", "main.py"]
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 tts_synthesis_total{engine, speaker_id}
@@ -1137,10 +1038,7 @@ tts_characters_synthesized_total{engine}
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 tts_latency_ms{engine}  # Latência total
@@ -1164,10 +1062,7 @@ tts_first_chunk_ms{engine}  # Tempo até primeiro chunk
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 tts_engine_health{engine}  # 0=down, 1=up
@@ -1197,10 +1092,7 @@ tts_fallback_activations_total  # Quantas vezes caiu para Piper
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 pip install -r requirements.txt
@@ -1223,10 +1115,7 @@ pip install -r requirements.txt
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 cp .env.example .env
@@ -1248,10 +1137,7 @@ cp .env.example .env
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 
@@ -1273,10 +1159,7 @@ cp .env.example .env
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 python main.py
@@ -1299,10 +1182,7 @@ python main.py
 - [mordomo-orchestrator](https://github.com/AslamSys/mordomo-orchestrator)
 - [mordomo-brain](https://github.com/AslamSys/mordomo-brain)
 - [mordomo-system-watchdog](https://github.com/AslamSys/mordomo-system-watchdog)
-- [mordomo-dashboard-ui](https://github.com/AslamSys/mordomo-dashboard-ui)
 - [mordomo-openclaw-agent](https://github.com/AslamSys/mordomo-openclaw-agent)
-- [mordomo-action-dispatcher](https://github.com/AslamSys/mordomo-action-dispatcher)
-- [mordomo-skills-runner](https://github.com/AslamSys/mordomo-skills-runner)
 
 ---
 curl -X POST http://localhost:8007/synthesize \
