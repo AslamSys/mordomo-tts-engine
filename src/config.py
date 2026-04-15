@@ -2,7 +2,7 @@ import os
 
 NATS_URL = os.getenv("NATS_URL", "nats://nats:4222")
 
-# Piper TTS (local - primary)
+PIPER_BIN = os.getenv("PIPER_BIN", "/usr/local/bin/piper/piper")
 PIPER_MODEL_PATH = os.getenv("PIPER_MODEL_PATH", "/app/models/pt_BR-faber-medium.onnx")
 PIPER_CONFIG_PATH = os.getenv("PIPER_CONFIG_PATH", "/app/models/pt_BR-faber-medium.onnx.json")
 PIPER_SAMPLE_RATE = 22050

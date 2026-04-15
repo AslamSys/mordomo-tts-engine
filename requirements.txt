@@ -1,4 +1,2 @@
-piper-tts==1.2.0
-onnxruntime==1.17.3
 nats-py==2.7.2
 numpy==1.26.4

@@ -1,35 +1,39 @@
-import io
 import logging
-import wave
-import numpy as np
-from piper import PiperVoice
+import subprocess
+import struct
 from src import config
 
 logger = logging.getLogger(__name__)
 
+PIPER_BIN = "/usr/local/bin/piper/piper"
+
 
 class PiperSynthesizer:
     def __init__(self):
-        self.voice: PiperVoice | None = None
+        self._ready = False
 
     def load(self):
-        logger.info("Loading Piper model from %s", config.PIPER_MODEL_PATH)
-        self.voice = PiperVoice.load(
-            config.PIPER_MODEL_PATH,
-            config_path=config.PIPER_CONFIG_PATH,
+        result = subprocess.run(
+            [PIPER_BIN, "--version"],
+            capture_output=True, text=True,
         )
-        logger.info("Piper model loaded (sample_rate=%d)", config.PIPER_SAMPLE_RATE)
+        logger.info("Piper binary ready: %s", result.stdout.strip() or "ok")
+        self._ready = True
 
     def synthesize(self, text: str) -> bytes:
-        buf = io.BytesIO()
-        with wave.open(buf, "wb") as wf:
-            wf.setnchannels(1)
-            wf.setsampwidth(2)
-            wf.setframerate(config.PIPER_SAMPLE_RATE)
-            self.voice.synthesize(text, wf)
-
-        buf.seek(44)  # skip WAV header
-        return buf.read()
+        proc = subprocess.run(
+            [
+                PIPER_BIN,
+                "--model", config.PIPER_MODEL_PATH,
+                "--config", config.PIPER_CONFIG_PATH,
+                "--output_raw",
+            ],
+            input=text.encode("utf-8"),
+            capture_output=True,
+        )
+        if proc.returncode != 0:
+            raise RuntimeError(f"Piper failed: {proc.stderr.decode()}")
+        return proc.stdout
 
     def synthesize_chunks(self, text: str, chunk_size: int = config.CHUNK_SIZE_SAMPLES):
         pcm = self.synthesize(text)

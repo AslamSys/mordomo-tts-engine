@@ -10,6 +10,13 @@ RUN apt-get update && \
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
+# Download Piper binary (pre-compiled for ARM64)
+RUN wget -q -O /tmp/piper.tar.gz \
+        "https://github.com/rhasspy/piper/releases/download/2023.11.14-2/piper_linux_aarch64.tar.gz" && \
+    tar -xzf /tmp/piper.tar.gz -C /usr/local/bin/ && \
+    rm /tmp/piper.tar.gz && \
+    chmod +x /usr/local/bin/piper/piper
+
 # Download Piper pt_BR-faber-medium model at build time
 RUN mkdir -p /app/models && \
     wget -q -O /app/models/pt_BR-faber-medium.onnx \
