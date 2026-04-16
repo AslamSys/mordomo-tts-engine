@@ -29,8 +29,8 @@ class TTSService:
         self.nc = await nats.connect(config.NATS_URL)
         logger.info("Connected to NATS at %s", config.NATS_URL)
 
-        await self.nc.subscribe("tts.generate.*", cb=self._on_generate)
-        await self.nc.subscribe("tts.interrupt.*", cb=self._on_interrupt)
+        await self.nc.subscribe("mordomo.tts.generate.*", cb=self._on_generate)
+        await self.nc.subscribe("mordomo.tts.interrupt.*", cb=self._on_interrupt)
 
         asyncio.create_task(self._heartbeat_loop())
         logger.info("TTS Engine started (engine=%s)", config.DEFAULT_ENGINE)
@@ -45,9 +45,7 @@ class TTSService:
         if not text:
             return
 
-        speaker_id = msg.subject.split(".")[-1]
-
-        # Cancel existing synthesis for this speaker
+        speaker_id = msg.subject.removeprefix("mordomo.tts.generate.").split(".")[-1]
         if speaker_id in self._active_tasks:
             self._active_tasks[speaker_id].cancel()
 
@@ -55,13 +53,13 @@ class TTSService:
         self._active_tasks[speaker_id] = task
 
     async def _on_interrupt(self, msg):
-        speaker_id = msg.subject.split(".")[-1]
+        speaker_id = msg.subject.removeprefix("mordomo.tts.interrupt.").split(".")[-1]
         if speaker_id in self._active_tasks:
             self._active_tasks[speaker_id].cancel()
             del self._active_tasks[speaker_id]
 
             await self.nc.publish(
-                f"tts.status.{speaker_id}",
+                f"mordomo.tts.status.{speaker_id}",
                 json.dumps({
                     "status": "interrupted",
                     "speaker_id": speaker_id,
@@ -73,7 +71,7 @@ class TTSService:
     async def _synthesize(self, speaker_id: str, text: str):
         try:
             await self.nc.publish(
-                f"tts.status.{speaker_id}",
+                f"mordomo.tts.status.{speaker_id}",
                 json.dumps({
                     "status": "started",
                     "speaker_id": speaker_id,
@@ -100,7 +98,7 @@ class TTSService:
                     "engine": "piper",
                 }
                 await self.nc.publish(
-                    f"tts.audio_chunk.{speaker_id}",
+                    f"mordomo.tts.audio_chunk.{speaker_id}",
                     json.dumps(payload).encode(),
                 )
                 chunks_sent += 1
@@ -109,7 +107,7 @@ class TTSService:
                 await asyncio.sleep(0)
 
             await self.nc.publish(
-                f"tts.status.{speaker_id}",
+                f"mordomo.tts.status.{speaker_id}",
                 json.dumps({
                     "status": "completed",
                     "speaker_id": speaker_id,
