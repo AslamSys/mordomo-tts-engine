@@ -145,9 +145,9 @@ wget https://huggingface.co/rhasspy/piper-voices/resolve/v1.0.0/pt/pt_BR/faber/m
 
 ### Input (NATS)
 
-**1. Requisições de Síntese**
+**1. Requisições de Síntese (texto completo — path legado)**
 ```python
-subject: "tts.generate.{speaker_id}"
+subject: "mordomo.tts.generate.{speaker_id}"
 payload: {
   "text": "A temperatura atual é 23 graus",
   "speaker_id": "user_1",
@@ -157,7 +157,20 @@ payload: {
 }
 ```
 
-**2. Comandos de Interrupção**
+**2. Streaming de Frases (Brain → TTS, frase a frase)**
+```python
+subject: "mordomo.tts.stream.{speaker_id}"
+payload: {
+  "text": "A temperatura atual é 23 graus.",
+  "sentence_index": 0,
+  "is_final": false,      # true na última frase
+  "timestamp": 1713000000.0
+}
+# Brain publica cada frase conforme chega do LLM (SSE streaming).
+# TTS sintetiza e publica audio chunks imediatamente por frase.
+```
+
+**3. Comandos de Interrupção**
 ```python
 subject: "tts.interrupt.{speaker_id}"
 payload: {}  # Vazio, apenas trigger
